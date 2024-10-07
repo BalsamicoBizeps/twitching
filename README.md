@@ -5,6 +5,7 @@
 <h2>Introduction<h2>
 This project aims to research the impact of the COVID-19 pandemic on the stock markets in the United States and Germany. By analyzing stock prices from key companies in these countries and comparing them with the progression of the pandemic, we seek to identify trends and correlations between COVID-19 cases and stock market performance.
 
+
 <h2>Data Overview<h2>
   
 1. COVID-19 Data
@@ -36,7 +37,9 @@ Historical stock data may be incomplete for companies that exited the indices du
 Challenges:
 Addressing missing or incomplete data for delisted companies.
 
+
 <h2> Research Questions <h2>
+  
 Question 1:
 Hypothesis: COVID-19 outbreaks had a negative impact on the stock markets in both the United States and Germany.
 
@@ -75,6 +78,7 @@ pandas for data manipulation
 matplotlib and seaborn for visualization
 requests for the Yahoo Finance API
 numpy for numerical computations
+
 
 <h2>Conclusions<h2>
 
