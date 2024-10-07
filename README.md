@@ -96,6 +96,6 @@ Could we use similar methods to study the stock market's response to future glob
 
 Links
 Kaggle Dataset on COVID-19 Cases
-
+Presentation: https://docs.google.com/presentation/d/1licqptrShY0f9w1tirYdT3Q6B3lnwadz6XmNYHd5qSA/edit?usp=sharing
 
 
